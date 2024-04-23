@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Rohit Ranjeet Satpute, currently pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur
 <!--
 **rrohitsy0h0/rrohitsy0h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
