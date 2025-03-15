@@ -1,7 +1,9 @@
 ### Hi there 👋
-I am Rohit Ranjeet Satpute, currently pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur
+I am Rohit Ranjeet Satpute, currently pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur.
 
-I am particularly interested in exploring the domain of Machine Learning
+I am currently a sophomore and particularly interested in exploring the domains of Software Development, Quantitative Research and Trading.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/rohit-satpute-66765028a/).
 <!--
 **rrohitsy0h0/rrohitsy0h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
