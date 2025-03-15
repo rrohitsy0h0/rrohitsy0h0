@@ -1,6 +1,8 @@
 ### Hi there 👋
 Second year undergraduate pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur.
+
 Interested in exploring the domains of Software Development, Quantitative Research and Trading.
+
 You can reach me on [LinkedIn](https://www.linkedin.com/in/rohit-satpute-66765028a/).
 <!--
 **rrohitsy0h0/rrohitsy0h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
