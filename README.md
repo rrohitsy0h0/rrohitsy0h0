@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Rohit Ranjeet Satpute, currently pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur.
+Second year undergraduate pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur.
 
-I am currently a sophomore and particularly interested in exploring the domains of Software Development, Quantitative Research and Trading.
+Interested in exploring the domains of Software Development, Quantitative Research and Trading.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/rohit-satpute-66765028a/).
 <!--
