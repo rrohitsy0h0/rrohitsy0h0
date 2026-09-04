@@ -1,5 +1,5 @@
 ### Hi there 👋
-Second year undergraduate pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur.
+Undergraduate pursuing B.Tech in Computer Science and Engineering from IIT Kharagpur.
 
 Interested in exploring the domains of Software Development, Quantitative Research and Trading.
 
